@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Batch 1 Tahun 2026_1</name>
+   <tag></tag>
+   <elementGuidId>d01d6a90-b591-498b-b574-35fc07dec537</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[title=&quot;Batch\ Nasional&quot;] .checkbox-control</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@title = 'Batch Nasional']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' checkbox-control ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1f82e137-d349-40c6-a973-dfd10b0983c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>0b145f1b-a379-43c7-9135-cc145d4e8451</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox-control ng-tns-c4150930438-12</value>
+      <webElementGuid>104a85a4-d606-4623-82f3-c5288bd8a3cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>289c2b21-c342-4063-a17a-d8e6c7d86d98</value>
+      <webElementGuid>2a0d1e7a-24a2-45b1-9d46-0292878d28ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>filter-item-0.929321898904628-0</value>
+      <webElementGuid>bea64545-a221-4da1-a243-bce2c208b08e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-8a7713bd712805a04fbf42c6706a0631</value>
+      <webElementGuid>38f31484-fdbd-4b41-8dbe-d8f84ab38f2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@title = 'Batch Nasional']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' checkbox-control ')]</value>
+      <webElementGuid>49f209b3-5119-4414-9228-d61e479fc2bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@title = 'Batch Nasional']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' checkbox-control ')]</value>
+      <webElementGuid>893bf49b-bec5-4c84-a01f-327388120620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @id = 'filter-item-0.929321898904628-0']</value>
+      <webElementGuid>f3cfceab-82c1-4aee-bc89-0d181f7eec3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
