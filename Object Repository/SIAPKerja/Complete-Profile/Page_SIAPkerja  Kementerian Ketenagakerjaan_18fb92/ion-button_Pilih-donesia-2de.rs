@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ion-button_Pilih-donesia-2de</name>
+   <tag></tag>
+   <elementGuidId>d9d0f01a-ce6f-4cf0-a226-80d034add3bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.ion-focusable.ion-activatable.ios.hydrated.ion-color-primary.in-buttons[fill=&quot;clear&quot;][color=&quot;primary&quot;][size=&quot;custom&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ion-focusable ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-activatable ') and contains(concat(' ', normalize-space(@class), ' '), ' ios ') and contains(concat(' ', normalize-space(@class), ' '), ' hydrated ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-color-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' in-buttons ') and (@fill = 'clear') and (@color = 'primary') and (@size = 'custom')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ion-button</value>
+      <webElementGuid>b050562f-8fe8-40a2-ba26-f6b6d58b27e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>744ffff2-6c07-4fcf-90e4-e2d35e74df06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>custom</value>
+      <webElementGuid>9a39e731-5d52-4456-ad04-a449d786b722</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>clear</value>
+      <webElementGuid>53d67a0e-d93d-4d54-9841-dc5eb6c8bd8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>no-shadow text-sm font-bold m-0 ion-color ion-color-primary ios button button-custom button-clear in-toolbar in-toolbar-color in-buttons ion-activatable ion-focusable hydrated</value>
+      <webElementGuid>39444893-db9f-4b0a-9358-10929ee6673c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Pilih </value>
+      <webElementGuid>bfd5fe6b-7da6-4232-94e9-370026771696</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-ee002d26516b045ae3c367bff63da89e</value>
+      <webElementGuid>108bd7bd-ec26-401b-b2fc-956a877b478b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ion-focusable ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-activatable ') and contains(concat(' ', normalize-space(@class), ' '), ' ios ') and contains(concat(' ', normalize-space(@class), ' '), ' hydrated ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-color-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' in-buttons ') and (@fill = 'clear') and (@color = 'primary') and (@size = 'custom')]</value>
+      <webElementGuid>e212d408-9534-441e-ba75-ab98065fa1b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ion-focusable ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-activatable ') and contains(concat(' ', normalize-space(@class), ' '), ' ios ') and contains(concat(' ', normalize-space(@class), ' '), ' hydrated ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-color-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' in-buttons ') and (@fill = 'clear') and (@color = 'primary') and (@size = 'custom')]</value>
+      <webElementGuid>38d9c12e-083e-4c88-ba3c-13e2f62182cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ion-button[(text() = ' Pilih ' or . = ' Pilih ')]</value>
+      <webElementGuid>72029b34-0fde-4304-9b7e-2c9017c77550</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

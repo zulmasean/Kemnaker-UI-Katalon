@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ion-button_Hapus daerah terpilih</name>
+   <tag></tag>
+   <elementGuidId>7b59ff5a-b5a2-4b8b-bfb9-242aaee7652f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.ion-color-primary[fill=&quot;clear&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ion-color-primary ') and (@fill = 'clear')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ion-button</value>
+      <webElementGuid>a3d0dde9-1cdf-4438-ab6a-e75862b54aa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>9109fc7f-9f73-4f32-b2bd-4342054b41ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>mode</name>
+      <type>Main</type>
+      <value>ios</value>
+      <webElementGuid>4beeab24-34c7-4e7f-b443-b5ec8e179ce6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>clear</value>
+      <webElementGuid>fd01e631-a864-473e-9e3a-c3ab48125c71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>custom</value>
+      <webElementGuid>e82962cb-df85-4968-9384-c71f12d0cd1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm font-bold ion-color ion-color-primary ios button button-custom button-clear ion-activatable ion-focusable hydrated</value>
+      <webElementGuid>2365383a-9222-4fbb-9ad0-bd4d67cd153e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Hapus daerah terpilih </value>
+      <webElementGuid>6c782d8d-d855-451f-8ac4-8ab2969d311f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e883d31a57c5d82a62fa579339cab591</value>
+      <webElementGuid>97368a89-97c2-4498-a364-1885596edff9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ion-color-primary ') and (@fill = 'clear')]</value>
+      <webElementGuid>13cf76e7-d371-489a-9a5d-082beeca58d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ion-color-primary ') and (@fill = 'clear')]</value>
+      <webElementGuid>a1beb80f-39be-4cdb-98fb-57b157d75a17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ion-button[(text() = ' Hapus daerah terpilih ' or . = ' Hapus daerah terpilih ')]</value>
+      <webElementGuid>26117dd2-5e69-4787-9c7c-b966a7fcfb38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

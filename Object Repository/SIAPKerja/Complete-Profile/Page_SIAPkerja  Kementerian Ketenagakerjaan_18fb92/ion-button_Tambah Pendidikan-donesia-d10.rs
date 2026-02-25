@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ion-button_Tambah Pendidikan-donesia-d10</name>
+   <tag></tag>
+   <elementGuidId>8bf5bc49-14c9-4a7f-a3a5-af2d28adb0c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[size=&quot;small&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@size = 'small']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ion-button</value>
+      <webElementGuid>d863a3f2-aba7-4970-b63e-0ca16a77f527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>blank</value>
+      <webElementGuid>afce43e6-a7c4-4c2f-a1cb-3df75da8e1ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>baa8cff6-c71b-4fac-afc7-99f435f81284</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>mode</name>
+      <type>Main</type>
+      <value>ios</value>
+      <webElementGuid>4337d8ae-3391-4c52-9026-617fa9157c40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-bold text-sm h-8 ion-border no-shadow ion-color ion-color-blank ios button button-small button-solid ion-activatable ion-focusable hydrated</value>
+      <webElementGuid>186c002f-2e78-44a1-96fa-41aaded560a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tambah Pendidikan </value>
+      <webElementGuid>0b9b861a-ff3b-4af4-8bae-b5f4cae78861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-74735147e05e958c5ea8542fb4091c6b</value>
+      <webElementGuid>8be6f407-8171-4346-a3d8-9958151b7089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@size = 'small']</value>
+      <webElementGuid>fb5f286f-4fc9-4991-a2e1-bb314663d907</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@size = 'small']</value>
+      <webElementGuid>dc12e9ff-1b34-40ce-be31-4b513a1fff2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ion-button[(text() = ' Tambah Pendidikan ' or . = ' Tambah Pendidikan ')]</value>
+      <webElementGuid>e971177e-e00a-4744-8882-5b462d07fe1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

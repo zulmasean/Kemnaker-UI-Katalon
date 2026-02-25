@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_taman sari</name>
+   <tag></tag>
+   <elementGuidId>6f5a7980-49b8-4ffa-8e76-4446fe737487</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ion-modal[@id='ion-overlay-3']/div/ion-content/ion-list/ion-item[7]/ion-label/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>980dc461-dfc9-417d-a993-f64868d1b707</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base capitalize</value>
+      <webElementGuid>bd416eea-3a34-4769-bde2-c9f93afc951c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>taman sari</value>
+      <webElementGuid>ad17d2cb-594d-4e53-a99c-5a833a10255f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ion-overlay-3&quot;)/div[@class=&quot;ion-delegate-host ion-page&quot;]/ion-content[@class=&quot;ios content-ltr hydrated&quot;]/ion-list[@class=&quot;ios list-ios hydrated&quot;]/ion-item[@class=&quot;item ios item-lines-default in-list ion-activatable ion-focusable hydrated item-label&quot;]/ion-label[@class=&quot;py-1 sc-ion-label-ios-h ios sc-ion-label-ios-s hydrated&quot;]/h4[@class=&quot;text-base capitalize&quot;]</value>
+      <webElementGuid>de83cf70-29e2-48bc-9b09-3ba5ccb72d13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ion-modal[@id='ion-overlay-3']/div/ion-content/ion-list/ion-item[7]/ion-label/h4</value>
+      <webElementGuid>17804a97-8c8e-49eb-b535-adbe7c035bc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rangkui'])[1]/following::h4[1]</value>
+      <webElementGuid>0ab66787-b630-42ef-b586-fe0873d8e663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pangkal balam'])[1]/following::h4[2]</value>
+      <webElementGuid>03d71806-a435-425d-99e0-44a57869bd0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ion-item[7]/ion-label/h4</value>
+      <webElementGuid>2b2b9e81-5519-4ef7-89ad-116b1b849380</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'taman sari' or . = 'taman sari')]</value>
+      <webElementGuid>8b356d60-0918-429e-8fe5-6a5fdbdbb405</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

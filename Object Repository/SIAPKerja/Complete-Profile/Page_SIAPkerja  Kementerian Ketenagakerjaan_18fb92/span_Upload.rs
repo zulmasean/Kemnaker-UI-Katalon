@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Upload</name>
+   <tag></tag>
+   <elementGuidId>f78af75f-81a4-4aa4-9fda-526bc0822a61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[color=&quot;blank&quot;][mode=&quot;ios&quot;][_ngcontent-ng-c2069223110=&quot;&quot;] span[_ngcontent-ng-c2069223110=&quot;&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@color = 'blank') and (@mode = 'ios') and (@_ngcontent-ng-c2069223110 = '')]//span[@_ngcontent-ng-c2069223110 = '']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>63cb4373-8720-4230-be56-a0dc7476865a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>-mt-0.5</value>
+      <webElementGuid>9b462e43-4c2f-4716-a19a-78a23b76bf60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload</value>
+      <webElementGuid>7057c4b9-3225-4822-9e99-214be3ee0f2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-9aaf568a6041e3fe0162df93444a6257</value>
+      <webElementGuid>02e51770-5087-4247-8a07-7c135bf52776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@color = 'blank') and (@mode = 'ios') and (@_ngcontent-ng-c2069223110 = '')]//span[@_ngcontent-ng-c2069223110 = '']</value>
+      <webElementGuid>1cfaaa4c-02fc-4e6f-affe-c4390aadafe4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@color = 'blank') and (@mode = 'ios') and (@_ngcontent-ng-c2069223110 = '')]//span[@_ngcontent-ng-c2069223110 = '']</value>
+      <webElementGuid>ab3e43b2-ca36-469b-8d6b-342aa9dc7349</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Upload' or . = 'Upload')]</value>
+      <webElementGuid>da2e48e1-5467-47c2-b1e7-0c652ec45d5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

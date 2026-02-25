@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Pilih keahlian</name>
+   <tag></tag>
+   <elementGuidId>9fb479dd-2259-4863-93d3-25bb197f159c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-ion-popover-trigger=&quot;true&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-ion-popover-trigger = 'true']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9b5230cd-baf7-48ca-b194-6b2f4d2ccf43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>fbf9c3c9-e775-4e74-be04-b6219725a17e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Pilih keahlian</value>
+      <webElementGuid>c5602290-d5ac-41ab-a14a-53864c8c26f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>multiselect-input-0.6507963621892154</value>
+      <webElementGuid>d64655be-f32d-4407-a033-0276cf92ef08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ion-popover-trigger</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>56b1eb98-c83c-48f8-8a18-c105073cf43d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-6aa5a999086c58d6191c40cf693e7615</value>
+      <webElementGuid>ad464d05-4397-4bbb-a222-a725cb79e89e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-ion-popover-trigger = 'true']</value>
+      <webElementGuid>d96817f6-9837-442b-867d-7eefd43a2d41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-ion-popover-trigger = 'true']</value>
+      <webElementGuid>510f4ec5-6b1d-4676-99a7-ba9570322c0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Pilih keahlian' and @id = 'multiselect-input-0.6507963621892154']</value>
+      <webElementGuid>8e558ab5-a63f-42e1-8629-09ab96948081</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

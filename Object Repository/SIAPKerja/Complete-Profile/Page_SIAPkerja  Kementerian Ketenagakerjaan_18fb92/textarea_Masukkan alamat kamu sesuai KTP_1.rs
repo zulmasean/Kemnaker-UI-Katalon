@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Masukkan alamat kamu sesuai KTP_1</name>
+   <tag></tag>
+   <elementGuidId>7e0dc010-9017-4b99-8e63-c9edf57bc46e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;ion-textarea-3&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name = 'ion-textarea-3']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>ec92ff85-fca5-4c72-b6dc-da03ed2db271</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>native-textarea sc-ion-textarea-ios</value>
+      <webElementGuid>01c68ece-0c98-4dfb-b61e-0b97b9e7c63a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ion-textarea-3</value>
+      <webElementGuid>2b923595-b488-4fae-9949-3b25ec3dc4d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocapitalize</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>9a6fc157-c031-4c0d-a458-87dcbd7e0c61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ion-textarea-3</value>
+      <webElementGuid>6821b2a8-138b-4661-af71-15d2a4046a01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan alamat kamu sesuai KTP</value>
+      <webElementGuid>4f19fe3f-5b5a-4680-afc7-f2c59bbb36eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>spellcheck</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>68f5ffb8-2a0c-4d36-85b3-913a9310385c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>eae3e0fb-c118-447b-8f2b-d55feba74ffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e50e6f68dd6a1c3ab5509e9ecc5c02ad</value>
+      <webElementGuid>03ac5e02-3b0f-49a4-9332-be20e509eb04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = 'ion-textarea-3']</value>
+      <webElementGuid>29147535-3bdb-4db2-9760-74a828736e56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = 'ion-textarea-3']</value>
+      <webElementGuid>5a89587c-ade2-4b1b-aff4-79bae5e9c0e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'ion-textarea-3' and @name = 'ion-textarea-3' and @placeholder = 'Masukkan alamat kamu sesuai KTP']</value>
+      <webElementGuid>0b891113-93d3-4d40-b251-94159c316b34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

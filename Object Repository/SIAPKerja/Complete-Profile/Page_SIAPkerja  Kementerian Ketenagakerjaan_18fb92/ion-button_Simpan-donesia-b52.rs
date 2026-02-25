@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ion-button_Simpan-donesia-b52</name>
+   <tag></tag>
+   <elementGuidId>177950c5-3667-4f53-9fdf-9f3fb26e23ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>sisnaker-prohub-profile-education-create-page ion-button.ion-color-primary.ion-focusable.ion-activatable.ios.hydrated.ion-color.font-bold.text-sm.button-block[color=&quot;primary&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//sisnaker-prohub-profile-education-create-page//ion-button[@class and contains(concat(' ', normalize-space(@class), ' '), ' ion-color-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-focusable ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-activatable ') and contains(concat(' ', normalize-space(@class), ' '), ' ios ') and contains(concat(' ', normalize-space(@class), ' '), ' hydrated ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-color ') and contains(concat(' ', normalize-space(@class), ' '), ' font-bold ') and contains(concat(' ', normalize-space(@class), ' '), ' text-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' button-block ') and (@color = 'primary')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ion-button</value>
+      <webElementGuid>6ecec76a-5f6e-44ba-9af5-50ad25d4dec5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>52de668d-2fd8-424b-b3e5-b2167357fcd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>expand</name>
+      <type>Main</type>
+      <value>block</value>
+      <webElementGuid>d4e821a0-d674-4c44-895e-3ffb6d9ff07c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm font-bold h-11 ion-color ion-color-primary ios button button-block button-solid ion-activatable ion-focusable hydrated</value>
+      <webElementGuid>c17c0553-e5bd-4a34-8cf9-8c1216718b64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Simpan </value>
+      <webElementGuid>57c4b1f0-1d7d-4b0c-8813-d8e9064beed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-9b9948831d1d4f905c763054f3e9ab9f</value>
+      <webElementGuid>64702e39-b92f-417f-8e80-4687beb242eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//sisnaker-prohub-profile-education-create-page//ion-button[@class and contains(concat(' ', normalize-space(@class), ' '), ' ion-color-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-focusable ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-activatable ') and contains(concat(' ', normalize-space(@class), ' '), ' ios ') and contains(concat(' ', normalize-space(@class), ' '), ' hydrated ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-color ') and contains(concat(' ', normalize-space(@class), ' '), ' font-bold ') and contains(concat(' ', normalize-space(@class), ' '), ' text-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' button-block ') and (@color = 'primary')]</value>
+      <webElementGuid>6c362631-5699-435f-b68a-d749b4a65a1b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//sisnaker-prohub-profile-education-create-page//ion-button[@class and contains(concat(' ', normalize-space(@class), ' '), ' ion-color-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-focusable ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-activatable ') and contains(concat(' ', normalize-space(@class), ' '), ' ios ') and contains(concat(' ', normalize-space(@class), ' '), ' hydrated ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-color ') and contains(concat(' ', normalize-space(@class), ' '), ' font-bold ') and contains(concat(' ', normalize-space(@class), ' '), ' text-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' button-block ') and (@color = 'primary')]</value>
+      <webElementGuid>afb9118e-024f-4087-be93-107f7c55ef1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ion-button[(text() = ' Simpan ' or . = ' Simpan ')]</value>
+      <webElementGuid>dd48662e-1791-4a11-9348-649572eea3f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_file_1</name>
+   <tag></tag>
+   <elementGuidId>e60bd9e7-c955-4b2f-82ac-6c80e4335e47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[accept=&quot;\.jpg\,\.jpeg\,\.png\,\.pdf&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@accept = '.jpg,.jpeg,.png,.pdf']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fbdd1611-0aa8-4c1a-99dc-ba0a97f13f98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>f5154437-23ba-44f9-a0d3-6ee8f6df838b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accept</name>
+      <type>Main</type>
+      <value>.jpg,.jpeg,.png,.pdf</value>
+      <webElementGuid>bb7c53a3-9e64-4702-8cd3-08b429e69d6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-871f5862ee31dabe1db0e431fa1d9011</value>
+      <webElementGuid>70f0575c-12ca-4358-9b73-a13c2cf9b5ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@accept = '.jpg,.jpeg,.png,.pdf']</value>
+      <webElementGuid>73687254-cc8e-4549-8705-eaae56b716e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@accept = '.jpg,.jpeg,.png,.pdf']</value>
+      <webElementGuid>be155ea5-c02b-44fa-a380-e2755b2a324f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'file']</value>
+      <webElementGuid>a52cbbf7-f043-4093-a681-7321754d9311</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
