@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Login-Account</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>c4340587-6d6a-49ec-a106-1bdf0882e150</testSuiteGuid>
+   <testCaseLink>
+      <guid>a1eeee04-4458-4e0f-9222-b119566a1039</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SIAPKerja/Login-Account/Login-Account</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>57d274ec-dfd8-43e7-871c-732d0a942d3e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/SIAPKerja/Register-Files</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>57d274ec-dfd8-43e7-871c-732d0a942d3e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>9c3f0440-9d58-43b4-a3bc-d489876626dd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>57d274ec-dfd8-43e7-871c-732d0a942d3e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>65b8bbda-059b-4c55-86a8-e6c03d3f02be</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

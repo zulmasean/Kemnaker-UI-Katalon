@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Masukkan nama lengkap</name>
+   <tag></tag>
+   <elementGuidId>1a4144b2-40da-4218-9e16-00d092ac1e1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'name']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>18eed08c-534b-4318-831d-68a2ff0fee3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>eeb109cf-7e9d-404f-bede-4b9ad6f9bd8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>57a2290c-fdba-43b5-8d26-bdb0f9a124d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>8908292f-7502-4016-b240-ea540dafacca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan nama lengkap</value>
+      <webElementGuid>554c0012-a7fb-4077-8605-28c1ff49e101</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>8f9a4149-75cb-418e-b4fb-684c5aa4fbd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-8a197d4710ab5f02de7534350e98820c</value>
+      <webElementGuid>851bd714-e2c6-4f68-b482-caea40f39dc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'name']</value>
+      <webElementGuid>847b9301-f26f-48fa-9257-54cdcb7526df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'name']</value>
+      <webElementGuid>78e90a8b-b66f-4055-b872-e962fb3b72bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'name' and @name = 'name' and @placeholder = 'Masukkan nama lengkap' and @type = 'text']</value>
+      <webElementGuid>3f3e7f59-223e-4632-97b8-b987e5d416e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

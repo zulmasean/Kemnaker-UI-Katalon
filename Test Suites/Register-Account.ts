@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Register-Account</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>2fc7795e-d4a0-498e-972c-9496bab62d9f</testSuiteGuid>
+   <testCaseLink>
+      <guid>600a18a8-7bd6-4f75-9513-b659b52e9e1c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SIAPKerja/Register-Account/Register-Account</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f5c5e9b2-9610-4f2b-b9ff-a6c37d12f858</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/SIAPKerja/Register-Files</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>f5c5e9b2-9610-4f2b-b9ff-a6c37d12f858</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>identity-number</value>
+         <variableId>7545fe21-fe9e-486d-982c-bb70d63c8203</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f5c5e9b2-9610-4f2b-b9ff-a6c37d12f858</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>full-name</value>
+         <variableId>af90308b-2b03-4dd7-9804-7033678facde</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f5c5e9b2-9610-4f2b-b9ff-a6c37d12f858</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>b6904b5f-7f8b-4e31-8177-c6283996e801</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f5c5e9b2-9610-4f2b-b9ff-a6c37d12f858</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>phone-number</value>
+         <variableId>94d6b630-14bf-49c6-9f23-ae9e31bf7bb6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f5c5e9b2-9610-4f2b-b9ff-a6c37d12f858</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>00db14b7-b6e1-4f42-91bb-c0fe547fa370</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
