@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ion-button_Konfirmasi-donesia-757</name>
+   <tag></tag>
+   <elementGuidId>41ac44fb-8872-4d99-b49d-561693bd7d4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[question=&quot;Apakah\ kamu\ ingin\ perpanjang\ pendaftaran\ pencari\ kerja\ ini\?&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@question = 'Apakah kamu ingin perpanjang pendaftaran pencari kerja ini?']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ion-button</value>
+      <webElementGuid>bb9e1a87-d1e1-410b-9e4a-ee299991490d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>mode</name>
+      <type>Main</type>
+      <value>ios</value>
+      <webElementGuid>af32f0f0-e6ae-4b61-8a68-eaee019e287a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>blank</value>
+      <webElementGuid>40e01b2b-8be1-4226-bf6b-4d6fc5939ac1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>91fb762e-fce2-458b-b568-2d2625fb4b3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Konfirmasi</value>
+      <webElementGuid>ba216417-4b91-4d41-9fca-88d56833d8d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>question</name>
+      <type>Main</type>
+      <value>Apakah kamu ingin perpanjang pendaftaran pencari kerja ini?</value>
+      <webElementGuid>8c1553f3-7d98-4f73-8c44-1a0bf15f8aa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>confirmbuttontext</name>
+      <type>Main</type>
+      <value>Ya, konfirmasi</value>
+      <webElementGuid>c2d8c31f-ce13-4d2c-b323-80e91edb59a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-8 block sm:inline-block ion-border no-shadow font-bold text-sm ion-color ion-color-blank ios button button-small button-solid ion-activatable ion-focusable hydrated</value>
+      <webElementGuid>18d183a3-0321-48e4-85e8-ec61ae7e57f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Perpanjang </value>
+      <webElementGuid>51860af4-1921-4108-a007-c06ae2e7ccae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-93c7f7e050ebdfb99a1d0480c275a28f</value>
+      <webElementGuid>6a17988c-ba0f-43ec-84ab-ab0e02e0097a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@question = 'Apakah kamu ingin perpanjang pendaftaran pencari kerja ini?']</value>
+      <webElementGuid>8ba3da5d-3570-4d2a-84be-24402d0dcc7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@question = 'Apakah kamu ingin perpanjang pendaftaran pencari kerja ini?']</value>
+      <webElementGuid>5bc78b96-b125-4e24-99b2-41db0ec81cb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ion-button[@title = 'Konfirmasi' and (text() = ' Perpanjang ' or . = ' Perpanjang ')]</value>
+      <webElementGuid>c0b8c21e-d88a-4e9d-8473-1f003615e8e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

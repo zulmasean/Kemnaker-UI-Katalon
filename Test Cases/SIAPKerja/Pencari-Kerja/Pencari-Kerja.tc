@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pencari-Kerja</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c974b0e8-689d-486d-b8be-9b457e511c92</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>589ac7e4-ff81-43de-8d11-77013cf00e90</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aad49489-af3b-4ad5-9bc9-9cdf946ca928</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>589ac7e4-ff81-43de-8d11-77013cf00e90</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aad49489-af3b-4ad5-9bc9-9cdf946ca928</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ion-button_Pilih-donesia-2de</name>
+   <tag></tag>
+   <elementGuidId>ac52ae3c-83d0-4469-8cd3-033e3c9e405d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[fill=&quot;clear&quot;][color=&quot;primary&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@fill = 'clear') and (@color = 'primary')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ion-button</value>
+      <webElementGuid>b7cb5d3b-77e1-4601-b1cb-84c6380d2748</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>46b81ddf-35ad-4ed8-a19e-90cd24385b94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>custom</value>
+      <webElementGuid>b422a545-e13a-4ced-abd7-e05c85deed0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>clear</value>
+      <webElementGuid>fa773fee-2e07-4ce6-82a1-d17dc3464f04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>no-shadow text-sm font-bold m-0 ion-color ion-color-primary ios button button-custom button-clear in-toolbar in-toolbar-color in-buttons ion-activatable ion-focusable hydrated</value>
+      <webElementGuid>e57db6d9-099b-413e-b081-5b413fb97bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Pilih </value>
+      <webElementGuid>d0a03204-2075-417e-a3a5-03a1b3b7c078</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-ee3a96503b892d4c2b59cad66a382b53</value>
+      <webElementGuid>cde0b75d-a370-4035-ab5f-fe3dab7d3c3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@fill = 'clear') and (@color = 'primary')]</value>
+      <webElementGuid>99f637e5-6ddb-4fa2-907c-a0770bf30b07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@fill = 'clear') and (@color = 'primary')]</value>
+      <webElementGuid>1309b167-dcf4-4c8f-abee-5bcc20f693f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ion-button[(text() = ' Pilih ' or . = ' Pilih ')]</value>
+      <webElementGuid>788bc855-de80-4ddb-98ee-86320bfc2577</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

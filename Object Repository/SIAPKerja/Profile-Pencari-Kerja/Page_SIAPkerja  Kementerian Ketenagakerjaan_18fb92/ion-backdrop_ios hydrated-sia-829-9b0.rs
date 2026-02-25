@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ion-backdrop_ios hydrated-sia-829-9b0</name>
+   <tag></tag>
+   <elementGuidId>2c46aebb-4069-4a14-8249-38758becbab9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.ios</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ios ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ion-backdrop</value>
+      <webElementGuid>9da4906d-079a-4b9d-9823-0f9ed39412d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>part</name>
+      <type>Main</type>
+      <value>backdrop</value>
+      <webElementGuid>e59bd407-88c1-403e-8659-fcf319e709b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>911a8304-222a-44e4-9ecf-d1dedadc5960</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ios hydrated</value>
+      <webElementGuid>ff0edb57-5d61-4e0f-9ad9-ca5ccd31c975</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d11a009646a7b380d8f88f59f941bd1f</value>
+      <webElementGuid>436bb852-eb78-4f40-ae1a-a567c0a1e2e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ios ')]</value>
+      <webElementGuid>b543744d-451e-4754-af12-29dbc0d8620e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/SIAPKerja/Profile-Pencari-Kerja/Page_SIAPkerja  Kementerian Ketenagakerjaan_18fb92/ion-popover_ion-overlay-21-donesia-829</value>
+      <webElementGuid>d6b34629-1e01-4cab-b8c4-c46e2f4ffc97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>89171f0e-3c98-4aa6-966f-ab3f0925364c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ios ')]</value>
+      <webElementGuid>c25b2433-426b-4d3d-b38f-33fd8496531b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

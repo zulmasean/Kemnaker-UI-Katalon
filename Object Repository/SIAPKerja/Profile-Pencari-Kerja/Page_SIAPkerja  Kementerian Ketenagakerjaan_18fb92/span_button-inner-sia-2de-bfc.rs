@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_button-inner-sia-2de-bfc</name>
+   <tag></tag>
+   <elementGuidId>500ad8dd-a88f-4ae2-8ff1-522957f4792e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.button-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' button-inner ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c0c23c00-314c-4fbf-ba4a-f080a471cd4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-inner</value>
+      <webElementGuid>b88b3f6a-477f-40b1-9d13-a7ef549bc31f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-26e5c29bd0ad28a04c3344903c369918</value>
+      <webElementGuid>24fbbdc2-928d-441e-a42e-8dc8bd657b8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' button-inner ')]</value>
+      <webElementGuid>789f9574-952e-4c3a-b991-d0cedb43f4a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/SIAPKerja/Profile-Pencari-Kerja/Page_SIAPkerja  Kementerian Ketenagakerjaan_18fb92/ion-button_Pilih-donesia-2de</value>
+      <webElementGuid>dab8d9fc-88f6-462d-8f2e-202fc46388f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>db4e4786-1781-46d9-969c-031c582aa5e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' button-inner ')]</value>
+      <webElementGuid>e1ee1533-2b36-4b7d-8021-dbe173006c2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

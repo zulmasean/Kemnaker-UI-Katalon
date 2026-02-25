@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ion-button_Daftar Pencari Kerja-donesia-ff9</name>
+   <tag></tag>
+   <elementGuidId>9bd7afcf-f98b-4e4a-8224-f7cdd6de7749</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[routerlink=&quot;\/prohub\/job-seeker\/apply&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@routerlink = '/prohub/job-seeker/apply']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ion-button</value>
+      <webElementGuid>b43edff9-7442-4316-a3cf-7cb7cbb05c9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>0df9aea6-bda7-43b4-828e-c6dde11a3c49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>expand</name>
+      <type>Main</type>
+      <value>block</value>
+      <webElementGuid>022453d5-4ede-48f5-bafa-e031370c591d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>mode</name>
+      <type>Main</type>
+      <value>ios</value>
+      <webElementGuid>13c44817-6496-45ce-a488-f5231b34c307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlink</name>
+      <type>Main</type>
+      <value>/prohub/job-seeker/apply</value>
+      <webElementGuid>80cc0fc7-5476-4b3f-a785-14e86343ea47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-10 sm:h-12 text-sm font-bold ion-color ion-color-primary ios button button-block button-solid ion-activatable ion-focusable hydrated</value>
+      <webElementGuid>9c32d0df-92d2-4871-bbf7-76ea0e25a85e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Daftar Pencari Kerja </value>
+      <webElementGuid>3ed025c8-ce1e-4cbc-831b-0457d8644bb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-2c0d1b7186cb11607000e8aaf4fd45b1</value>
+      <webElementGuid>53c393b7-32ac-4894-8764-02fb90f25954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@routerlink = '/prohub/job-seeker/apply']</value>
+      <webElementGuid>91b64bfa-98b0-448d-895f-b36207fc3bad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@routerlink = '/prohub/job-seeker/apply']</value>
+      <webElementGuid>00c0e45c-c42d-4889-9ecf-56c5fc35466d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ion-button[(text() = ' Daftar Pencari Kerja ' or . = ' Daftar Pencari Kerja ')]</value>
+      <webElementGuid>6fe55312-0618-431e-a134-b01e0b6685f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

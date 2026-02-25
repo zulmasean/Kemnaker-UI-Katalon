@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Pilih lokasi</name>
+   <tag></tag>
+   <elementGuidId>f46468d0-8e4a-4552-82ef-ef2921fd7ef2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[placeholder=&quot;Pilih\ lokasi&quot;][type=&quot;text&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@placeholder = 'Pilih lokasi') and (@type = 'text')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f5ef1074-ad0e-4bb4-853b-3b667209a6b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9be90d40-d787-4fae-a941-5ff51ccce8e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Pilih lokasi</value>
+      <webElementGuid>8ac74a1e-ce62-4d28-8a4f-e7f9c150474e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>multiselect-input-0.860807799914978</value>
+      <webElementGuid>00e5fd6c-d91c-4ee3-8ef8-e696b1e3b5ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ion-popover-trigger</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>9114d69d-66b5-4046-a0d9-a9453b949956</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-2921c895c491dabafcef6191a41781e5</value>
+      <webElementGuid>c1b8aabf-f682-48b8-a271-ab76586f5946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@placeholder = 'Pilih lokasi') and (@type = 'text')]</value>
+      <webElementGuid>27a79daa-a8d6-4702-b369-58e2140c8c44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@placeholder = 'Pilih lokasi') and (@type = 'text')]</value>
+      <webElementGuid>73833353-cec7-46d6-82a0-ead5d0289cb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Pilih lokasi' and @id = 'multiselect-input-0.860807799914978']</value>
+      <webElementGuid>d7018ea2-9d29-417b-a015-7d7a36ad802b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

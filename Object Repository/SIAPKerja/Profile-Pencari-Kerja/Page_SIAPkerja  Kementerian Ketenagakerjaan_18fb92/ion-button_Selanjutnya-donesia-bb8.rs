@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ion-button_Selanjutnya-donesia-bb8</name>
+   <tag></tag>
+   <elementGuidId>bdbd9406-e478-4686-a24d-c6183d3b3354</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.bg-blank.border-t ion-button.ion-color-primary.ion-focusable.ion-activatable.ios.hydrated.ion-color.text-sm.font-bold.button-block[color=&quot;primary&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' bg-blank ') and contains(concat(' ', normalize-space(@class), ' '), ' border-t ')]//ion-button[@class and contains(concat(' ', normalize-space(@class), ' '), ' ion-color-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-focusable ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-activatable ') and contains(concat(' ', normalize-space(@class), ' '), ' ios ') and contains(concat(' ', normalize-space(@class), ' '), ' hydrated ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-color ') and contains(concat(' ', normalize-space(@class), ' '), ' text-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' font-bold ') and contains(concat(' ', normalize-space(@class), ' '), ' button-block ') and (@color = 'primary')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ion-button</value>
+      <webElementGuid>21cf4859-f818-400b-8d63-0108cae7e209</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>c85c10fc-0b54-4ba9-aca5-76f5d7b684f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>expand</name>
+      <type>Main</type>
+      <value>block</value>
+      <webElementGuid>6a651e27-bf03-48d2-91bd-4e6a7fc251bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm font-bold h-11 ion-color ion-color-primary ios button button-block button-solid ion-activatable ion-focusable hydrated</value>
+      <webElementGuid>104e170e-df9c-4e0b-873a-6a956f8742ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Selanjutnya </value>
+      <webElementGuid>ff7841e6-9a8b-47ce-a939-24652579feb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d50090f511c3c8e8d026c92ee88432a7</value>
+      <webElementGuid>23284fc3-9a7b-410f-9db6-38cd20c84ddb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' bg-blank ') and contains(concat(' ', normalize-space(@class), ' '), ' border-t ')]//ion-button[@class and contains(concat(' ', normalize-space(@class), ' '), ' ion-color-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-focusable ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-activatable ') and contains(concat(' ', normalize-space(@class), ' '), ' ios ') and contains(concat(' ', normalize-space(@class), ' '), ' hydrated ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-color ') and contains(concat(' ', normalize-space(@class), ' '), ' text-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' font-bold ') and contains(concat(' ', normalize-space(@class), ' '), ' button-block ') and (@color = 'primary')]</value>
+      <webElementGuid>9b86bc38-c22f-4063-90dd-93192baab694</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' bg-blank ') and contains(concat(' ', normalize-space(@class), ' '), ' border-t ')]//ion-button[@class and contains(concat(' ', normalize-space(@class), ' '), ' ion-color-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-focusable ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-activatable ') and contains(concat(' ', normalize-space(@class), ' '), ' ios ') and contains(concat(' ', normalize-space(@class), ' '), ' hydrated ') and contains(concat(' ', normalize-space(@class), ' '), ' ion-color ') and contains(concat(' ', normalize-space(@class), ' '), ' text-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' font-bold ') and contains(concat(' ', normalize-space(@class), ' '), ' button-block ') and (@color = 'primary')]</value>
+      <webElementGuid>ffe41339-b7b9-4bd8-92e5-ea95c5607df1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ion-button[(text() = ' Selanjutnya ' or . = ' Selanjutnya ')]</value>
+      <webElementGuid>dcd6be79-dbc5-46c3-afa4-baa88ee03be7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

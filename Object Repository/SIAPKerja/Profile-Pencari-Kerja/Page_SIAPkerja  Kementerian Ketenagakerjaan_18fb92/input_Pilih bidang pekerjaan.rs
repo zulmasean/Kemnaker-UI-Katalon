@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Pilih bidang pekerjaan</name>
+   <tag></tag>
+   <elementGuidId>86ef6b30-c742-4d82-87b4-9dbbdd407ada</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[placeholder=&quot;Pilih\ bidang\ pekerjaan&quot;][type=&quot;text&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@placeholder = 'Pilih bidang pekerjaan') and (@type = 'text')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>777356b9-6c46-49b1-ab50-9cd990fbf576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>6bdeefed-a40d-4f56-b4a8-460d06976c5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Pilih bidang pekerjaan</value>
+      <webElementGuid>b71e6df0-ac74-42a0-9af6-4e0eb8ba627c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>multiselect-input-0.7793675052187713</value>
+      <webElementGuid>5a294c1b-7f21-4005-80e5-2a25d9f613a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ion-popover-trigger</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>fa856dc4-44c1-40ed-8152-adff8e0d67ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-28217a5a78cda70db7528d065b93f375</value>
+      <webElementGuid>c3dca0dd-16d6-4aba-9a9e-4d1820ed6478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@placeholder = 'Pilih bidang pekerjaan') and (@type = 'text')]</value>
+      <webElementGuid>db518fb8-6b24-4015-bdff-9e16cac7b112</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@placeholder = 'Pilih bidang pekerjaan') and (@type = 'text')]</value>
+      <webElementGuid>dc7db4c9-7fbe-4adc-a05d-88a2f80aa70b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Pilih bidang pekerjaan' and @id = 'multiselect-input-0.7793675052187713']</value>
+      <webElementGuid>e8862c2b-9572-4436-a8ac-4a13260dd084</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

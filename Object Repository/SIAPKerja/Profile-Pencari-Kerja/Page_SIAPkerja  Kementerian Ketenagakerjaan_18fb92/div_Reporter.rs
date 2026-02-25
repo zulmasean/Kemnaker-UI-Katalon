@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Reporter</name>
+   <tag></tag>
+   <elementGuidId>ef45e111-ea40-4945-93f9-4455bae5537b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.text-sm.cursor-pointer[_ngcontent-ng-c1825902672=&quot;&quot;]:nth-child(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' cursor-pointer ') and (@_ngcontent-ng-c1825902672 = '') and (position() = 3)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a71354a0-9bb2-49cb-bb43-157e9ac08134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm py-3 px-4 cursor-pointer</value>
+      <webElementGuid>ccccbaf8-6fa0-4ecf-b0eb-6b435b41e2cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reporter</value>
+      <webElementGuid>1215bfd0-5dbc-4099-90e5-d01be1952023</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-8f5e0269588f3c5841e9a97fa761c77f</value>
+      <webElementGuid>c6db8956-9750-4d3e-9074-e12389111c6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' cursor-pointer ') and (@_ngcontent-ng-c1825902672 = '') and (position() = 3)]</value>
+      <webElementGuid>b3cd8e6b-2e86-4009-b349-342c95a468ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' cursor-pointer ') and (@_ngcontent-ng-c1825902672 = '') and (position() = 3)]</value>
+      <webElementGuid>d3036361-abf4-4aa7-9a95-ca67cbf3a49d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Reporter' or . = 'Reporter')]</value>
+      <webElementGuid>115178f9-9d58-4815-a4dc-3c0aba80720b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

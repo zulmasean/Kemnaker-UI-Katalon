@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Pilih industri_sektor</name>
+   <tag></tag>
+   <elementGuidId>27b37c4b-28f3-494c-add7-65208a8b71a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[placeholder=&quot;Pilih\ industri\/sektor&quot;][type=&quot;text&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@placeholder = 'Pilih industri/sektor') and (@type = 'text')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>08878ae5-28b6-4400-a053-bf7fe50c5c80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>94bf0204-7b72-4b24-969a-801e016b53aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Pilih industri/sektor</value>
+      <webElementGuid>eb9e3ef8-9ba9-49a5-9d51-a3453e2c42dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>multiselect-input-0.12301078373897922</value>
+      <webElementGuid>36ca4c64-8706-4061-ae59-ddda6a97f676</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ion-popover-trigger</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1ffda1a9-2321-4edb-bcb4-c5c739deaa89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-51cefb17affe42e3989a43e68d4453bf</value>
+      <webElementGuid>51af0a85-85fd-40a9-a88f-f56f2f2182ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@placeholder = 'Pilih industri/sektor') and (@type = 'text')]</value>
+      <webElementGuid>f84442db-b544-4ed6-b4e5-5d2e2b42755f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@placeholder = 'Pilih industri/sektor') and (@type = 'text')]</value>
+      <webElementGuid>d0b982c9-d1f8-41d6-a47d-345cc2eec4f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Pilih industri/sektor' and @id = 'multiselect-input-0.12301078373897922']</value>
+      <webElementGuid>d5e62caa-3451-4494-858d-d880ee16e911</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
