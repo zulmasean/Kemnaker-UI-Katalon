@@ -75,31 +75,14 @@ Kemnaker-UI-Katalon/
 ## 🎯 Testing Scope
 
 ### 1️⃣ Login Flow
-- Valid Login
-- Invalid Email
-- Invalid Password
-- Empty Field Validation
-- Session Validation
 
 ### 2️⃣ Register Flow
-- Valid Registration
-- Duplicate Email Validation
-- Mandatory Field Validation
-- Account Activation Page Validation
 
 ### 3️⃣ Complete Profile
-- Update Personal Data
-- Mandatory Field Validation
-- Save Profile Validation
 
 ### 4️⃣ Pencari Kerja
-- Search Job
-- Filter Job
-- View Detail Job
 
 ### 5️⃣ SkillHub
-- Assessment Navigation
-- Answer Submission Validation
 
 ---
 
