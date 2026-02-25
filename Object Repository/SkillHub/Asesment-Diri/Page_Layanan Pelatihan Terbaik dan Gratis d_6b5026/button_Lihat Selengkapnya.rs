@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Lihat Selengkapnya</name>
+   <tag></tag>
+   <elementGuidId>f7312783-6ca0-462c-9c63-d49e600d19bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[routerlink=&quot;\/pelatihan\/vokasi-nasional\/jadwal&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@routerlink = '/pelatihan/vokasi-nasional/jadwal']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4c8935a8-c2e7-494d-a961-fde8f7a4ae05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>328fb23f-75a9-4e0d-bd2d-ee63df6c2ade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlink</name>
+      <type>Main</type>
+      <value>/pelatihan/vokasi-nasional/jadwal</value>
+      <webElementGuid>12aab1b3-f77e-4fb2-8dab-8068130583ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary m-0 mr-4</value>
+      <webElementGuid>7f0a656a-198d-4313-bc96-f958d97f4a5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>94e96c4b-2e26-477a-ad40-010b1f92f159</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Selengkapnya</value>
+      <webElementGuid>6339ab20-e761-460a-857b-6d09ebec3fd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-5a01b9fa3a270080a67b0ab838ebf34f</value>
+      <webElementGuid>2871e564-3d62-40a4-9434-bb0778ea9b04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@routerlink = '/pelatihan/vokasi-nasional/jadwal']</value>
+      <webElementGuid>cc059526-5958-44c6-856b-2e47dd7f9c86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@routerlink = '/pelatihan/vokasi-nasional/jadwal']</value>
+      <webElementGuid>fe161f52-e68b-4e83-b962-8c0976660741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Lihat Selengkapnya' or . = 'Lihat Selengkapnya')]</value>
+      <webElementGuid>c9edd20b-fd3f-48da-98d3-740fdaf40a69</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

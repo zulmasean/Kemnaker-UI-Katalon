@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Masuk</name>
+   <tag></tag>
+   <elementGuidId>27a5dd34-cee3-4309-bb26-5160efe89ec7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.chakra-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' chakra-button ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4fbbd0f5-a2c6-4d47-b423-ed8544523997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>a4ad79cb-ff34-423e-8b79-9c53d2a39cc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-button css-1lv1frm</value>
+      <webElementGuid>a180f358-33a7-4ff4-9315-0ebdb1c62d13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk</value>
+      <webElementGuid>78d1f6c8-5dee-4d37-a15e-aca741ccded8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-32bbace0a5acb0d6e1ec352f385ab317</value>
+      <webElementGuid>ff1e6aff-8485-497c-a35d-030d792f8ac1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' chakra-button ')]</value>
+      <webElementGuid>74817ad3-1bfc-4096-8507-cd40ca954ba7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' chakra-button ')]</value>
+      <webElementGuid>24ed05ff-19fb-43dd-b0d4-d813aa3c52a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Masuk' or . = 'Masuk')]</value>
+      <webElementGuid>d6b43656-40e4-4043-bf78-93d8ee8fe98e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

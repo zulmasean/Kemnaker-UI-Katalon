@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_button-inner-sia-bb8-7e7</name>
+   <tag></tag>
+   <elementGuidId>5f712301-c467-4834-9d86-037e107be69e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.button-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' button-inner ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a1ca252d-763b-496d-8453-8be39051ca00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-inner</value>
+      <webElementGuid>0799e223-af0f-44be-bc4e-9d81fcdafb68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-3425852eb7f1680218322a5a03b03977</value>
+      <webElementGuid>081c89cd-49ac-484c-8774-39dd2346eec9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' button-inner ')]</value>
+      <webElementGuid>8580cbda-1740-4335-9f07-686aa0cd6b20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/SkillHub/Asesment-Diri/Page_SIAPkerja  Kementerian Ketenagakerjaan_18fb92/ion-button_Selanjutnya-donesia-bb8</value>
+      <webElementGuid>157de0ea-e053-440d-9e3a-22d4fdc5fcae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6451828d-da97-4f6f-bb24-32db2489db4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' button-inner ')]</value>
+      <webElementGuid>a860cdf5-e7f1-43c9-b2c4-7dc7afd904d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

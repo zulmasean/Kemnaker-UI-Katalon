@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_h-6 w-6 ng-tns-c491173323-24</name>
+   <tag></tag>
+   <elementGuidId>a98404a5-746e-40ca-9605-d12e231ba181</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.rounded-md.bg-white[type=&quot;button&quot;] [stroke=&quot;currentColor&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-md ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-white ') and (@type = 'button')]//*[@stroke = 'currentColor']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>47218951-3e32-427f-b14b-f35b85814dea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>ea0ae46e-04d2-4e3b-b3a0-e5afda8ff0b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>593dc10d-8af9-44f2-a5ce-c90bf9a50b29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>1.5</value>
+      <webElementGuid>5ea5d308-c9e0-4e93-9412-6caa05bce750</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>3cbe0ca1-1c5c-457e-9da0-792a5db589de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5154cc45-d793-4c7f-b88c-99e8d9ab93ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-6 w-6 ng-tns-c491173323-24</value>
+      <webElementGuid>cb0f60ef-3f2e-4bf7-9313-5f4788bcd480</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-89d9b69386142368902429f788572105</value>
+      <webElementGuid>f9334f6f-2a3d-41f6-be5f-5b03be3b82c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-md ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-white ') and (@type = 'button')]//*[@stroke = 'currentColor']</value>
+      <webElementGuid>2f76689f-2772-4b1e-a52f-f509b78fb1f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-md ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-white ') and (@type = 'button')]//*[@stroke = 'currentColor']</value>
+      <webElementGuid>8b6e7493-56af-4a22-a1f5-09768ceb11d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
