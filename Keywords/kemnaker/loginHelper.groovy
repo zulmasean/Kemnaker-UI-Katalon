@@ -22,7 +22,7 @@ import internal.GlobalVariable
 
 public class loginHelper {
 	@Keyword
-	def login(String emailTo, String passTo) {
+	def login(String email, String password) {
 		WebUI.openBrowser('')
 		WebUI.maximizeWindow()
 		WebUI.navigateToUrl('https://siapkerja.kemnaker.go.id/app/home')
