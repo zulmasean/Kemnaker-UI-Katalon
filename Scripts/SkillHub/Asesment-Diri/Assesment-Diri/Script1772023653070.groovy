@@ -17,22 +17,24 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+CustomKeywords.'kemnaker.loginHelper.login'(email,password)
 
-WebUI.maximizeWindow()
-
-WebUI.navigateToUrl('https://siapkerja.kemnaker.go.id/app/home')
-
-WebUI.setText(findTestObject('SIAPKerja/Login-Account/Page_Masuk ke Akun  SIAPkerja ID  Kementeri_eaf591/input_Masukkan email atau nomor handphone'),
-	email)
-
-WebUI.click(findTestObject('SIAPKerja/Login-Account/Page_Masuk ke Akun  SIAPkerja ID  Kementeri_eaf591/input_Masukkan password'))
-
-WebUI.setText(findTestObject('SIAPKerja/Login-Account/Page_Masuk ke Akun  SIAPkerja ID  Kementeri_eaf591/input_Masukkan password'),
-	password)
-
-WebUI.click(findTestObject('SIAPKerja/Login-Account/Page_Masuk ke Akun  SIAPkerja ID  Kementeri_eaf591/button_Masuk'))
-
+//WebUI.openBrowser('')
+//
+//WebUI.maximizeWindow()
+//
+//WebUI.navigateToUrl('https://siapkerja.kemnaker.go.id/app/home')
+//
+//WebUI.setText(findTestObject('SIAPKerja/Login-Account/Page_Masuk ke Akun  SIAPkerja ID  Kementeri_eaf591/input_Masukkan email atau nomor handphone'),
+//	email)
+//
+//WebUI.click(findTestObject('SIAPKerja/Login-Account/Page_Masuk ke Akun  SIAPkerja ID  Kementeri_eaf591/input_Masukkan password'))
+//
+//WebUI.setText(findTestObject('SIAPKerja/Login-Account/Page_Masuk ke Akun  SIAPkerja ID  Kementeri_eaf591/input_Masukkan password'),
+//	password)
+//
+//WebUI.click(findTestObject('SIAPKerja/Login-Account/Page_Masuk ke Akun  SIAPkerja ID  Kementeri_eaf591/button_Masuk'))
+//
 WebUI.navigateToUrl('https://sandbox.skillhub.kemnaker.go.id/')
 
 WebUI.click(findTestObject('SkillHub/Asesment-Diri/Page_Layanan Pelatihan Terbaik dan Gratis d_6b5026/button_Lihat Selengkapnya'))

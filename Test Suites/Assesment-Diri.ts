@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Assesment-Diri</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>2c2aa8d1-f30d-43f3-8fa7-2035697405b0</testSuiteGuid>
+   <testCaseLink>
+      <guid>f19b6369-a0f4-4b2a-bf8a-feb087aaa86d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SkillHub/Asesment-Diri/Assesment-Diri</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>fb64c223-6f40-4afa-a3e2-fa77139c7917</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/SIAPKerja/Register-Files</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>fb64c223-6f40-4afa-a3e2-fa77139c7917</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>0b0e8812-75b4-4908-b9f4-4b95c27fd0e9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fb64c223-6f40-4afa-a3e2-fa77139c7917</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>f9940469-b10c-4abd-865f-20479413e284</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
